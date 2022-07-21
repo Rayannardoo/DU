@@ -1,0 +1,49 @@
+body{
+    background-color: aqua;
+    margin: auto;
+}
+
+.titulo{
+    text-align: center;
+    font-family: fantasy;
+    margin: auto;
+}
+
+.Art{
+    text-align: center;
+    font-family: fantasy;
+    margin-top: 100px;
+}
+
+.caixa-diretos{
+    text-align: center;
+    margin-top: 50px;
+    font-family: fantasy;
+}
+
+.Est{
+    text-align: center;
+    margin-top: 130px;
+    font-family: fantasy;
+    
+}
+
+.Para2{
+    margin-right: 185px;
+}
+
+.Para3{
+    margin-right: 700px;
+}
+
+.Coro{
+    margin-top: 100px;
+    width: 500px;
+    height: 400px;
+    margin-left: 50px;
+}
+.Tra{
+    width: 500px;
+    height: 400px;
+    margin-left: 250px;
+}
